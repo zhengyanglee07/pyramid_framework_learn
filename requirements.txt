@@ -1,0 +1,17 @@
+Chameleon==3.10.1
+Mako==1.1.6
+MarkupSafe==1.1.1
+Paste==3.5.0
+PasteDeploy==2.1.1
+PasteScript==3.2.1
+pyramid==1.2.7
+repoze.lru==0.7
+six==1.16.0
+translationstring==1.4
+venusian==2.1.0
+WebOb==1.8.7
+zope.component==5.0.1
+zope.deprecation==4.4.0
+zope.event==4.5.0
+zope.hookable==5.1.0
+zope.interface==5.4.0
